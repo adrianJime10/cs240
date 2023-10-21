@@ -1,0 +1,11 @@
+PWD Command - Prints out to the console the name of the directory that you are currently in (Print Working Directory?).
+
+mkdir Command - Makes a folder within the current directory with a user inputed name.
+
+rmdir Command - Delete a folder within the current directory so long as its empty. If it's not empty, you must tag along --ignore-fail-on-non-empty.
+
+ls Command - Gives information about what is located in the current folder.
+
+man Command - Brings up a manual for the given command. Contains a name section, a synopsis section, and a description section.
+
+
